@@ -1,13 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Full-stack web applications using React, TypeScript, Tailwind CSS, and modern backend technologies.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, startup ideas, and real-world web applications that solve meaningful problems.<br><br>🤝 I’m looking for help with<br>System design, performance optimization, and building scalable backend architectures.<br><br>💬 Ask me about<br>React.js, Tailwind CSS, TypeScript, Full-Stack development, UI/UX best practices, and databases.<br><br>🧠 Tech Stack<br>Frontend: React.js, TypeScript, Tailwind CSS<br>Backend: Node.js, Express<br>Database: MongoDB, SQLite<br>Tools: Git, GitHub, VS Code, Postman<br><br>💼 Freelancer<br>Available for freelance work, including websites, dashboards, and full-stack web applications.
 
-🔭 I’m currently working on Track Back
+-- 🔭 I’m currently working on Track Back
 
-💬 Ask me about Android And Wedsite Developer
+-- 💬 Ask me about Android And Wedsite Developer
 
-📫 How to reach me: prathamtailor11@gmail.com
+-- 📫 How to reach me: prathamtailor11@gmail.com
 
-⚡ Fun fact i'm funny
+-- ⚡ Fun fact i'm funny
 
 Connect with me:
 you b tech you b tech you_b_tech you b tech
