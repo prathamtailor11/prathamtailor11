@@ -12,31 +12,13 @@
 Connect with me:
 you b tech you b tech you_b_tech you b tech
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF"/>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-</p>
-
-<h3 align="center">Other</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
+🛠️ Tech Stack
+Frontend
+<p> <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF"/> </p>
+Backend
+<p> <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/> </p>
+Other
+<p> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prathamtailor11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
