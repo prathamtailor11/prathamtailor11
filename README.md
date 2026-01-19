@@ -1,16 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web applications using React, TypeScript, Tailwind CSS, and modern backend technologies.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, startup ideas, and real-world web applications that solve meaningful problems.<br><br>🤝 I’m looking for help with<br>System design, performance optimization, and building scalable backend architectures.<br><br>💬 Ask me about<br>React.js, Tailwind CSS, TypeScript, Full-Stack development, UI/UX best practices, and databases.<br><br>🧠 Tech Stack<br>Frontend: React.js, TypeScript, Tailwind CSS<br>Backend: Node.js, Express<br>Database: MongoDB, SQLite<br>Tools: Git, GitHub, VS Code, Postman<br><br>💼 Freelancer<br>Available for freelance work, including websites, dashboards, and full-stack web applications.
+<h1>💫 About Me</h1>
 
--- 🔭 I’m currently working on Track Back
+🚀 Full-Stack Developer focused on building modern, scalable web applications using React, TypeScript, Tailwind CSS, and Node.js.
 
--- 💬 Ask me about Android And Wedsite Developer
+🤝 Open to collaborating on open-source projects, startup ideas, and real-world products that solve meaningful problems.
 
--- 📫 How to reach me: prathamtailor11@gmail.com
+🧠 Interested in system design, performance optimization, and scalable backend architectures.
 
--- ⚡ Fun fact i'm funny
+💬 Ask me about React, Next.js, Full-Stack Development, UI/UX best practices, and databases.
 
-Connect with me:
-you b tech you b tech you_b_tech you b tech
+💼 Freelancer — available for websites, dashboards, and end-to-end full-stack solutions.
+
+📫 Reach me at: prathamtailor11@gmail.com
+
+⚡ Fun fact: I keep code clean and conversations lighter 😄
 
 <h1 align="center">🛠️ Tech Stack</h1>
 <h2 align="center">Frontend</h2> <p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> </p>
